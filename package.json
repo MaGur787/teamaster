@@ -1,0 +1,22 @@
+{
+  "name": "teamaster",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "dependencies": { 
+      "tea-milk":"1.0.0"
+  },
+    "type": "git",
+    "url": "git+https://github.com/MaGur787/teamaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaGur787/teamaster/issues"
+  },
+  "homepage": "https://github.com/MaGur787/teamaster#readme"
+}
